@@ -1,0 +1,81 @@
+{
+    "mapwidth": "960",
+    "mapheight": "600",
+    "levels": [
+        {
+            "id": "floor-guide",
+            "title": "Floor Guide",
+            "map": "maps/floor-guide.svg",
+            "locations": [
+                {
+                    "id": "office",
+                    "title": "Office Floor",
+                    "about": "17F~33F",
+                    "description": "A Comfortable and Welcoming Coworking Space Where Your Business Can Thrive.",
+                    "pin": "hidden",
+                    "x": "0.575",
+                    "y": "0.405"
+                },
+                {
+                    "id": "meeting",
+                    "title": "Share Meeting Room",
+                    "about": "15F~16F",
+                    "description": "Best meeting spaces in cities around the world. Book spaces for an hour, day, and Month.",
+                    "pin": "hidden",
+                    "x": "0.575",
+                    "y": "0.535"
+                },
+                {
+                    "id": "hotel",
+                    "title": "Hotel Room",
+                    "about": "7F~14F",
+                    "pin": "hidden",
+                    "x": "0.575",
+                    "y": "0.635"
+                },
+                {
+                    "id": "gym&pool",
+                    "title": "Gym & Pool",
+                    "about": "8F",
+                    "description": "The gym provides a wide variety of fitness equipment for our guests. Service time: 07:00am-10:00pm",
+                    "pin": "hidden",
+                    "x": "0.575",
+                    "y": "0.73"
+                },
+                {
+                    "id": "karaoke",
+                    "title": "Karaoke",
+                    "about": "6F",
+                    "description": "Karaoke is where the intrigued go to let loose and enjoy oneself over lively entertainment and the simple pleasure that is karaoke.",
+                    "pin": "hidden",
+                    "x": "0.575",
+                    "y": "0.775"
+                },
+                {
+                    "id": "casino",
+                    "title": "Casino",
+                    "about": "G-3-5F",
+                    "pin": "hidden",
+                    "x": "0.575",
+                    "y": "0.825"
+                },
+                {
+                    "id": "restaurant",
+                    "title": "Restaurant",
+                    "about": "3 & 5F",
+                    "pin": "hidden",
+                    "x": "0.575",
+                    "y": "0.8"
+                },
+                {
+                    "id": "lobby",
+                    "title": "Lobby",
+                    "about": "GF",
+                    "pin": "hidden",
+                    "x": "0.575",
+                    "y": "0.88"
+                }
+            ]
+        }
+    ]
+}

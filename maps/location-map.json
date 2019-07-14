@@ -1,0 +1,167 @@
+{
+    "mapwidth": "960",
+    "mapheight": "600",
+    "groups": [
+        {
+            "id": "mall",
+            "title": "Mall",
+            "color": "#111183"
+        },
+        {
+            "id": "entertainment",
+            "title": "Entertainment",
+            "color": "#ef3b9b"
+        }
+    ],
+    "levels": [
+        {
+            "id": "loaction-view",
+            "title": "Location View",
+            "map": "maps/location-map.svg",
+            "locations": [
+                {
+                    "id": "powergate",
+                    "title": "Powergate",
+                    "pin": "hidden",
+                    "x": "0.53",
+                    "y": "0.234"
+                },
+                {
+                    "id": "airport",
+                    "title": "Manila International Airport",
+                    "description": "Manila Ninoy Aquino International Airport (MNL)",
+                    "link": "https://www.manila-airport.net/",
+                    "pin": "hidden",
+                    "x": "0.7464",
+                    "y": "0.9266"
+                },
+                {
+                    "id": "robinsons",
+                    "title": "Robinsons Place Manila",
+                    "description": "Robinsons Place Manila is a 240,000 sqm full service, world-class mall that is currently the leading shopping center in Manila.",
+                    "category": "mall",
+                    "link": "http://www.robinsonsmalls.com/mall-info/robinsons-place-manila",
+                    "pin": "hidden",
+                    "x": "0.534",
+                    "y": "0.19"
+                },
+                {
+                    "id": "sm-mall-of-asia",
+                    "title": "SM Mall of Asia",
+                    "description": "SM Mall of Asia is a tourist destination that has raised the standard of shopping, leisure and entertainment in the Philippines.",
+                    "category": "mall",
+                    "link": "https://www.smsupermalls.com/mall-locator/sm-mall-of-asia/information/",
+                    "pin": "hidden",
+                    "x": "0.508",
+                    "y": "0.684"
+                },
+                {
+                    "id": "glorietta",
+                    "title": "GLORIETTA",
+                    "description": "Glorietta occupies a central space in the lives of those in the business district. With its wide selection of shopping, dining, and entertainment offerings organized into strategic zones.",
+                    "category": "mall",
+                    "link": "https://www.ayalaland.com.ph/mall/glorietta/",
+                    "pin": "hidden",
+                    "x": "0.819",
+                    "y": "0.515"
+                },
+                {
+                    "id": "greenbelt",
+                    "title": "GREENBELT",
+                    "description": "Greenbelt is a shopping mall located at Ayala Center, Makati, Metro Manila, Philippines which is just near Glorietta and SM Makati.",
+                    "category": "mall",
+                    "link": "https://www.makaticity.com/shopping/greenbelt-mall.php",
+                    "pin": "hidden",
+                    "x": "0.788",
+                    "y": "0.4898"
+                },
+                {
+                    "id": "sm-jazz-mall",
+                    "title": "SM JAZZ MALL",
+                    "description": "It is an entire floor comprised of food and drink establishments, a supermarket, hardware store, and health and beauty shops. The Jazz Residences building is located in Jupiter corner Nicanor Garcia (Reposo), of Bel Air Village, Makati.",
+                    "category": "mall",
+                    "link": "http://www.smjazzresidences.com/",
+                    "pin": "hidden",
+                    "x": "0.789",
+                    "y": "0.3648"
+                },
+                {
+                    "id": "newport-mall",
+                    "title": "NEWPORT MALL",
+                    "description": "The four-level shopping haven that is home to a dazzling array of high-fashion boutiques, and world-class dining outlets.",
+                    "category": "mall",
+                    "link": "https://www.rwmanila.com/newport-mall",
+                    "pin": "hidden",
+                    "x": "0.789",
+                    "y": "0.836"
+                },
+                {
+                    "id": "century-city-mall",
+                    "title": "Century City Mall",
+                    "category": "mall",
+                    "pin": "hidden",
+                    "x": "0.832",
+                    "y": "0.334"
+                },
+                {
+                    "id": "ocean",
+                    "title": "Manila Ocean Park",
+                    "description": "Manila Ocean Park is the first world-class marine theme park in the Philippines.",
+                    "category": "entertainment",
+                    "link": "https://www.manilaoceanpark.com",
+                    "pin": "hidden",
+                    "x": "0.451",
+                    "y": "0.17"
+                },
+                {
+                    "id": "star",
+                    "title": "Star City",
+                    "description": "Star City is a 35,000 m2 (380,000 sq ft) amusement park in Pasay, Philippines.",
+                    "category": "entertainment",
+                    "link": "https://www.starcity.com.ph/rides.php",
+                    "pin": "hidden",
+                    "x": "0.541",
+                    "y": "0.441"
+                },
+                {
+                    "id": "world",
+                    "title": "World Trade Center",
+                    "description": "A member of the World Trade Centers Association (WTCA) of New York, World Trade Center Metro Manila (WTCMM) is the first exhibition venue in the Philippines.",
+                    "category": "entertainment",
+                    "link": "http://www.wtcmanila.com.ph/",
+                    "pin": "hidden",
+                    "x": "0.551",
+                    "y": "0.511"
+                },
+                {
+                    "id": "dream",
+                    "title": "City of Dreams",
+                    "description": "Enjoy World-Class Entertainment with Family and Friends at the Philippine's Most Luxurious Resort, Hotel & Casino.",
+                    "category": "entertainment",
+                    "link": "https://www.cityofdreamsmanila.com/",
+                    "pin": "hidden",
+                    "x": "0.58",
+                    "y": "0.816"
+                },
+                {
+                    "id": "okada",
+                    "title": "Okada Manila",
+                    "description": "Carved on 44 hectares of picturesque oceanfront, Okada Manila is Entertainment City's iconic integrated resort.",
+                    "category": "entertainment",
+                    "link": "http://www.okadamanila.com/",
+                    "pin": "hidden",
+                    "x": "0.514",
+                    "y": "0.925"
+                },
+                {
+                    "id": "solaire",
+                    "title": "Solaire Resort & Casino",
+                    "category": "entertainment",
+                    "pin": "hidden",
+                    "x": "0.509",
+                    "y": "0.8042"
+                }
+            ]
+        }
+    ]
+}
