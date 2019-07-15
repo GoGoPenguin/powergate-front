@@ -1,0 +1,28 @@
+@media only screen and (max-width: 835px) {
+    div.content {
+        display: none;
+    }
+}
+
+.spot {
+    border-radius: 50%;
+    background-color: red;
+    border: none;
+    padding: 5px;
+}
+
+#spot-1 {
+    margin-left: -160px;
+}
+
+#spot-2 {
+    position: relative;
+    margin-left: 46px;
+    top: 30px;
+}
+
+#spot-3 {
+    position: relative;
+    margin-left: 10px;
+    top: -30px;
+}

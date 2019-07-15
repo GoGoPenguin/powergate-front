@@ -98,7 +98,9 @@
                 {
                     "id": "century-city-mall",
                     "title": "Century City Mall",
+                    "description": "The Mall of Modern Makati. A Century Properties Development in Century City, Makati.",
                     "category": "mall",
+                    "link": "https://centurycitymall.com.ph/",
                     "pin": "hidden",
                     "x": "0.832",
                     "y": "0.334"
@@ -156,7 +158,9 @@
                 {
                     "id": "solaire",
                     "title": "Solaire Resort & Casino",
+                    "description": "Step into a world of indulgence at the premier integrated resort in Manila, where unparalleled experiences in gaming, entertainment, dining, and leisure awaits.",
                     "category": "entertainment",
+                    "link": "https://www.solaireresort.com/",
                     "pin": "hidden",
                     "x": "0.509",
                     "y": "0.8042"
