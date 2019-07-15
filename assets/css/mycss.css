@@ -26,3 +26,15 @@
     margin-left: 10px;
     top: -30px;
 }
+
+#spot-4 {
+    position: relative;
+    right: 196px;
+    bottom: 35px;
+}
+
+#spot-5 {
+    position: relative;
+    right: 175px;
+    top: 10px;
+}
