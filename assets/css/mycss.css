@@ -1,9 +1,3 @@
-@media only screen and (max-width: 835px) {
-    div.content {
-        display: none;
-    }
-}
-
 .spot {
     border-radius: 50%;
     border: none;
@@ -14,30 +8,68 @@
     background-color: red;
 }
 
-#spot-1 {
-    margin-left: -160px;
+@media only screen and (max-width: 835px) {
+    div.content img {
+        width: 171px;
+        height: 171px;
+    }
+
+    #spot-1 {
+        position: relative;
+        margin-left: 75px;
+        bottom: 100px;
+    }
+
+    #spot-2 {
+        position: relative;
+        margin-left: 30px;
+        bottom: 75px;
+    }
+    
+    #spot-3 {
+        position: relative;
+        bottom: 115px;
+    }
+    
+    #spot-4 {
+        position: relative;
+        left: 55px;
+        bottom: 125px;
+    }
+    
+    #spot-5 {
+        position: relative;
+        left: 65px;
+        bottom: 90px;
+    }
 }
 
-#spot-2 {
-    position: relative;
-    margin-left: 46px;
-    top: 30px;
-}
-
-#spot-3 {
-    position: relative;
-    margin-left: 10px;
-    top: -30px;
-}
-
-#spot-4 {
-    position: relative;
-    right: 196px;
-    bottom: 35px;
-}
-
-#spot-5 {
-    position: relative;
-    right: 175px;
-    top: 10px;
+@media only screen and (min-width: 836px) {
+    #spot-1 {
+        margin-left: -160px;
+    }
+    
+    #spot-2 {
+        position: relative;
+        margin-left: 46px;
+        top: 30px;
+    }
+    
+    #spot-3 {
+        position: relative;
+        margin-left: 10px;
+        top: -30px;
+    }
+    
+    #spot-4 {
+        position: relative;
+        right: 196px;
+        bottom: 35px;
+    }
+    
+    #spot-5 {
+        position: relative;
+        right: 175px;
+        top: 10px;
+    }
 }
