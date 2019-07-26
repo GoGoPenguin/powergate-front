@@ -8,6 +8,10 @@
     background-color: red;
 }
 
+.panorama-slider__data-layer {
+    top: 20% !important;
+}
+
 @media only screen and (max-width: 835px) {
     div.content img {
         width: 171px;
